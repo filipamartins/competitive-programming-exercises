@@ -1,0 +1,1 @@
+g++ -Wall Problem2.cpp -o Problem2 && Problem2 < ./inputs_test/input4_hard.txt

@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -O2 -static Problem3_v2.cpp -o Problem3_v2 && Problem3_v2 < ./inputs_test/input4.txt
